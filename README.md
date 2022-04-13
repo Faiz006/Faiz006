@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Faiz Alam</h1>
-<h3 align="center">Just trying to get better in life.</h3>
+<h3 align="center">Just trying to be better.</h3>
 
-- 🔭 I’m currently working on **2D Platformer Game Using Godot**
+- 🔭 My First Project in on 2D Platformer Game [2D Game Using Godot](https://faizz006.itch.io/godot-2d-game)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java, HTML, CSS**
 
 - 📫 How to reach me **[Instagram](https://www.instagram.com/faizz_alam/?hl=en)**
 
@@ -18,4 +18,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
