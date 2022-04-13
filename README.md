@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faiz Alam</h1>
 <h3 align="center">Just trying to be better.</h3>
 
-- 🔭 My First Project in on 2D Platformer Game [2D Game Using Godot](https://faizz006.itch.io/godot-2d-game)
+- :video_game: My First Project in on 2D Platformer Game [2D Game Using Godot](https://faizz006.itch.io/godot-2d-game)
 
 - 🌱 I’m currently learning **Java, HTML, CSS**
 
