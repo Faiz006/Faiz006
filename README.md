@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, HTML, CSS, JS**
 
-- 🤖 My First Web Development project by using HTML, CSS and Basic Bootstrap [Freeeze](https://faiz006.github.io/My-First-Web-Development-Project/)
+- 🤖 My First Web Development project by using HTML, CSS and Basic Bootstrap [Freeeze](https://faiz006.github.io/First-Web-Development-Project-/index.html)
 
 - 📫 How to reach me **[Instagram](https://www.instagram.com/faizz_alam/?hl=en)**
 
