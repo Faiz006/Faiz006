@@ -9,7 +9,7 @@
 
 - 🧩 I’m currently learning **MySQL, ReactJS**
 
-- 👨‍💻 Currently Working on a  Blog website using react as frontend and MySQL as backend.
+- 👨‍💻 Currently Working on a  Blog website using ReactJS as frontend and MySQL as backend.
 
 - 🕸️ Web Development project by using HTML, CSS and Basic Bootstrap [Food](https://faiz006.github.io/Food-Site/)
 
