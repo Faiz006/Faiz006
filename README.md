@@ -5,7 +5,11 @@
 
 - 🤖 Game Development project using Unity [Top Dungeon](https://faizz006.itch.io/top-dungeon)
 
-- 🌱 I’m currently learning **Java, HTML, CSS, JS, C#**
+- 🌱 Known Language **Java, C, Python, HTML, CSS, JavaScript**
+
+- 🧩 I’m currently learning **MySQL, ReactJS**
+
+- 👨‍💻 Currently Working on a  Blog website using react as frontend and MySQL as backend.
 
 - 🕸️ Web Development project by using HTML, CSS and Basic Bootstrap [Food](https://faiz006.github.io/Food-Site/)
 
